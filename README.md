@@ -33,8 +33,12 @@ I write and paint by myself and make AI music 🎨🎶🤖
 Xia Mai, born in the 1990s, female, holds a Ph.D. from Peking University, a signed writer at BaJin Literary Academy. Her criticism has appeared in China Youth Daily, Beijing News, Stars Poetry Journal, among others. Her fiction has appeared in Harvest, Frontiers, Sichuan Literature, Anhui Literature, Hunan Literature, Young Writers, Science Fiction Cube，among others. Some of her works have been selected for the Harvest Five-Year Collection (2018-2022) Novella Volume and the 2022 "Urban Literature" rankings of Young Writers.
 
 ### My Hand-made Music Sample
-[▶️ Listen to Theme Song of “Lover in Her Prime” (MP3)]
-(https://music.163.com/#/song?app_version=8.8.36&id=1471976461&sc=wmv&uct=qi5ho7Vc60rR9Lr6XBj1hw%3D%3D&dlt=0846）
+
+<p align="center">
+  <strong>▶️ <a href="https://music.163.com/#/song?id=1471976461">Listen to Theme Song of “Lover in Her Prime”</a></strong>
+  <br>
+  <small>(NetEase Cloud Music – AI-assisted composition)</small>
+</p>
 
 ### Selected Novels & Paintings (PDF)
 - **[Bunnie the Creator](https://github.com/XiaMai2000/XiaMai2000/blob/a363043e97e6b25d9cee1f6f142526d43e9beb4d/Bonnie%20the%20Creator.pdf)**  
