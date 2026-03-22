@@ -6,8 +6,11 @@ Writer • Spiritual Practitioner • Researcher exploring AI risks, longtermism
 - 🌱 I’m currently learning: AI S-risk  
 - 👯 I’m looking to collaborate with volunteers to participate in AI-agent tests for Intention Economics  
 - 🤔 I’m looking for co-authors: I have a completed manuscript ready for submission (covering AI ethics / Web3 empirical study / intention economics). Used AI-assisted tools (text generation & code assistance) during writing. Seeking collaborator for full review, proofreading, rigor check, logical consistency, accurate citations, and to avoid AI-induced errors.  
-- 💬 Ask me about anything — I write, paint, and create AI music by myself  
+- 💬 Ask me about anything — I write, paint, and create music by myself.also generates AI pieces. 
 - 📫 How to reach me: museofsummertime@gmail.com  
+
+### My Hand-made Music Sample
+[▶️ Listen to "Dao Flow" (MP3)](https://music.163.com/#/song?app_version=8.8.36&id=1471976461&sc=wmv&uct=qi5ho7Vc60rR9Lr6XBj1hw%3D%3D&dlt=0846）
 
 ### Languages and Tools
 
