@@ -60,7 +60,7 @@ If a baby knows what he will be encountering with, but he cannot choose his para
 
 #### Buddha Machine: 
 <p align="center">
-  <img src="https://github.com/XiaMai2000/XiaMai2000/blob/04d86c25e7c3482148096251d6ad1af3f93549ee/%E7%AC%AC3%E9%A1%B5-6(1).PNG" alt="Buddha Machine" width="600"/>
+  <img src="https://github.com/XiaMai2000/XiaMai2000/blob/04d86c25e7c3482148096251d6ad1af3f93549ee/%E7%AC%AC3%E9%A1%B5-6(1).PNG" alt="Buddha Machine" width="400"/>
 </p>
 <p align="center">
   <img src="https://github.com/XiaMai2000/XiaMai2000/blob/e466adb39158e0f19beb86a50356bbedb86c129e/%E7%AC%AC5%E9%A1%B5-8.PNG" alt="Buddha Machine" width="600"/>
