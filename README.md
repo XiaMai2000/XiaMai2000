@@ -1,7 +1,7 @@
 ## Hi there 👋 I’m XiaMai
 Writer • Spiritual Practitioner • Researcher exploring AI risks, longtermism, and humanistic futures
 <p align="center">
-  <img src="https://github.com/XiaMai2000/XiaMai2000/blob/main/%E7%AC%AC5%E9%A1%B5-8.PNG" alt="Buddha Machine" width="300"/>
+  <img src="https://github.com/XiaMai2000/XiaMai2000/raw/main/%E7%AC%AC5%E9%A1%B5-8.PNG" alt="Buddha Machine" width="300"/>
   </p>
   
 - 🔭 I’m currently working on: Universal Basic Compute, Attention Economy, Intention Economics, Dao Organisation  
