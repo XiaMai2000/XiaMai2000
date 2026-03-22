@@ -3,6 +3,7 @@ Writer • Spiritual Practitioner • Researcher exploring AI risks, longtermism
 <p align="center">
   <img src="https://github.com/XiaMai2000/XiaMai2000/blob/e466adb39158e0f19beb86a50356bbedb86c129e/%E7%AC%AC5%E9%A1%B5-8.PNG" alt="Buddha Machine" width="300"/>
   </p>
+  
 - 🔭 I’m currently working on: Universal Basic Compute, Attention Economy, Intention Economics, Dao Organisation  
 - 🌱 I’m currently learning: AI S-risk  
 - 👯 I’m looking to collaborate with volunteers to participate in AI-agent tests for Intention Economics  
