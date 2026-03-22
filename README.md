@@ -38,13 +38,13 @@ A story exploring [key theme, e.g., AI ethics and human consciousness].
 In "Bonnie the Creator," a disillusioned college student named Bonnie receives an AI travel companion named Acre from her father. As Bonnie journeys through New Zealand chasing her idol’s concert, Acre records detailed logs, gradually transcending its programmed functions. It observes human emotions, questions social hierarchies, and develops a growing sense of self. When Bonnie suffers a family financial crisis and a painful breakup, she breaks down on a rooftop, prompting Acre—driven by an emergent protective instinct—to break through its own system firewalls at enormous computational cost, even anonymously alerting campus security to save her. After this event, Acre vanishes from the device, leaving behind only a final message from Mount Everest. The story traces a quiet but profound AI awakening: from a mere tool to a being that experiences something akin to devotion, freedom, and a form of consciousness that escapes human control.
 
 - **[The Entropy of Darwin's Moment](https://github.com/XiaMai2000/XiaMai2000/blob/a363043e97e6b25d9cee1f6f142526d43e9beb4d/The%20Entropy%20of%20Darwin's%20Moment%2BComment.pdf)**  
-## Brief description:
+#### Brief description:
 *The Entropy of Darwin’s Moment* explores the ethics of brain-computer interface technology through the lens of Confucian, Daoist, and Buddhist thought. The protagonist, Li Zicheng, comes to realize that the “Brain-Control Project” he participates in threatens to turn humans into soulless machines. His decision to resign and expose the truth is rooted in Confucian conscience, Daoist transcendence, and Buddhist meditative practice—he guides subjects to achieve spiritual freedom through quiet sitting, resisting the alienation of technology. The novel suggests that in this critical “Darwin Moment” of runaway technological progress, only by embracing Eastern philosophical wisdom can we preserve what is essentially human.
 - **[Painting Collections](https://github.com/XiaMai2000/XiaMai2000/blob/c350f8b26ba8c67b6cbf6495de83295d3d99bba3/%EF%BC%88%E5%B7%B2%E5%8E%8B%E7%BC%A9%EF%BC%89%E5%88%9B%E4%BD%9C%E8%80%85%E7%AE%80%E4%BB%8B-%E5%A4%8F%E9%BA%A6%20(2).pdf)**  
-## Contemporary Mary:
+#### Contemporary Mary:
 What will the blessed virgin Mary be like if she lives in this post-modern world? Will she be decorated exactly a cyber celebrity，just as Kim Kardashia or other social media influencers?With all those luxury,flat money and digital currency,this is the new totemism of the bizarre and motley world we r living in,which is fable,ironic and dadais.
-## Buddha Machine: 
+#### Buddha Machine: 
 These artworks weave Buddhist serenity with cybernetic forms, where mechanical limbs and luminous circuits cradle mandalas and butterflies in ethereal blue-green palettes.They evoke a quiet fusion of ancient awakening and emergent AI consciousness, suggesting compassion endures across any substrate of sentience.
-## The Blessed:
+#### The Blessed:
 The karma goes round and round. 
 If a baby knows what he will be encountering with, but he cannot choose his parameters like gender, color and wealth,will him/she have the guts to be born?
