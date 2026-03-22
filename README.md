@@ -28,9 +28,11 @@ Writer • Spiritual Practitioner • Researcher exploring AI risks, longtermism
 I write and paint by myself and make AI music 🎨🎶🤖
 ### Author Bio
 Xia Mai, born in the 1990s, female, holds a Ph.D. from Peking University, a signed writer at BaJin Literary Academy. Her criticism has appeared in China Youth Daily, Beijing News, Stars Poetry Journal, among others. Her fiction has appeared in Harvest, Frontiers, Sichuan Literature, Anhui Literature, Hunan Literature, Young Writers, Science Fiction Cube，among others. Some of her works have been selected for the Harvest Five-Year Collection (2018-2022) Novella Volume and the 2022 "Urban Literature" rankings of Young Writers.
+
 ### My Hand-made Music Sample
 [▶️ Listen to Theme Song of “Lover in Her Prime” (MP3)]
 (https://music.163.com/#/song?app_version=8.8.36&id=1471976461&sc=wmv&uct=qi5ho7Vc60rR9Lr6XBj1hw%3D%3D&dlt=0846）
+
 ### Selected Novels & Paintings (PDF)
 - **[Bunnie the Creator](https://github.com/XiaMai2000/XiaMai2000/blob/a363043e97e6b25d9cee1f6f142526d43e9beb4d/Bonnie%20the%20Creator.pdf)**  
 #### Brief description: 
@@ -40,6 +42,7 @@ In "Bonnie the Creator," a disillusioned college student named Bonnie receives a
 - **[The Entropy of Darwin's Moment](https://github.com/XiaMai2000/XiaMai2000/blob/a363043e97e6b25d9cee1f6f142526d43e9beb4d/The%20Entropy%20of%20Darwin's%20Moment%2BComment.pdf)**  
 #### Brief description:
 *The Entropy of Darwin’s Moment* explores the ethics of brain-computer interface technology through the lens of Confucian, Daoist, and Buddhist thought. The protagonist, Li Zicheng, comes to realize that the “Brain-Control Project” he participates in threatens to turn humans into soulless machines. His decision to resign and expose the truth is rooted in Confucian conscience, Daoist transcendence, and Buddhist meditative practice—he guides subjects to achieve spiritual freedom through quiet sitting, resisting the alienation of technology. The novel suggests that in this critical “Darwin Moment” of runaway technological progress, only by embracing Eastern philosophical wisdom can we preserve what is essentially human.
+
 - **[Painting Collections](https://github.com/XiaMai2000/XiaMai2000/blob/c350f8b26ba8c67b6cbf6495de83295d3d99bba3/%EF%BC%88%E5%B7%B2%E5%8E%8B%E7%BC%A9%EF%BC%89%E5%88%9B%E4%BD%9C%E8%80%85%E7%AE%80%E4%BB%8B-%E5%A4%8F%E9%BA%A6%20(2).pdf)**  
 #### Contemporary Mary:
 What will the blessed virgin Mary be like if she lives in this post-modern world? Will she be decorated exactly a cyber celebrity，just as Kim Kardashia or other social media influencers?With all those luxury,flat money and digital currency,this is the new totemism of the bizarre and motley world we r living in,which is fable,ironic and dadais.
