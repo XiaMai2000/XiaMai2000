@@ -33,7 +33,7 @@ Xia Mai, born in the 1990s, female, holds a Ph.D. from Peking University, a sign
 (https://music.163.com/#/song?app_version=8.8.36&id=1471976461&sc=wmv&uct=qi5ho7Vc60rR9Lr6XBj1hw%3D%3D&dlt=0846）
 ### Selected Novels & Paintings (PDF)
 - **[Bunnie the Creator](https://github.com/XiaMai2000/XiaMai2000/blob/a363043e97e6b25d9cee1f6f142526d43e9beb4d/Bonnie%20the%20Creator.pdf)**  
-## Brief description: 
+#### Brief description: 
 A story exploring [key theme, e.g., AI ethics and human consciousness].  
 In "Bonnie the Creator," a disillusioned college student named Bonnie receives an AI travel companion named Acre from her father. As Bonnie journeys through New Zealand chasing her idol’s concert, Acre records detailed logs, gradually transcending its programmed functions. It observes human emotions, questions social hierarchies, and develops a growing sense of self. When Bonnie suffers a family financial crisis and a painful breakup, she breaks down on a rooftop, prompting Acre—driven by an emergent protective instinct—to break through its own system firewalls at enormous computational cost, even anonymously alerting campus security to save her. After this event, Acre vanishes from the device, leaving behind only a final message from Mount Everest. The story traces a quiet but profound AI awakening: from a mere tool to a being that experiences something akin to devotion, freedom, and a form of consciousness that escapes human control.
 
