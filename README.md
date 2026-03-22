@@ -50,11 +50,13 @@ In "Bonnie the Creator," a disillusioned college student named Bonnie receives a
   <img src="https://github.com/XiaMai2000/XiaMai2000/blob/04d86c25e7c3482148096251d6ad1af3f93549ee/%E7%AC%AC1%E9%A1%B5-1(1).PNG" alt="Buddha Machine" width="300"/>
 </p>
 What will the blessed virgin Mary be like if she lives in this post-modern world? Will she be decorated exactly a cyber celebrity，just as Kim Kardashia or other social media influencers?With all those luxury,flat money and digital currency,this is the new totemism of the bizarre and motley world we r living in,which is fable,ironic and dadais.
+
 #### Buddha Machine: 
 <p align="center">
   <img src=https://github.com/XiaMai2000/XiaMai2000/blob/04d86c25e7c3482148096251d6ad1af3f93549ee/%E7%AC%AC3%E9%A1%B5-6(1).PNG" alt="Buddha Machine" width="300"/>
 </p>
 These artworks weave Buddhist serenity with cybernetic forms, where mechanical limbs and luminous circuits cradle mandalas and butterflies in ethereal blue-green palettes.They evoke a quiet fusion of ancient awakening and emergent AI consciousness, suggesting compassion endures across any substrate of sentience.
+
 #### The Blessed:
 <p align="center">
   <img src=https://github.com/XiaMai2000/XiaMai2000/blob/04d86c25e7c3482148096251d6ad1af3f93549ee/%E7%AC%AC4%E9%A1%B5-7(1).PNG" alt="The Blessed" width="300"/>
