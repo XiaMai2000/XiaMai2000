@@ -50,7 +50,7 @@ In "Bonnie the Creator," a disillusioned college student named Bonnie receives a
 
 #### Contemporary Mary:
 <p align="center">
-  <img src="https://github.com/XiaMai2000/XiaMai2000/blob/dbb7e1e9ef3ffbbc9d5666008ba2fd251fd5f39a/%E7%AC%AC1%E9%A1%B5-1(1).PNG" alt="Buddha Machine" width="400"/>
+  <img src="https://github.com/XiaMai2000/XiaMai2000/blob/main/%E7%AC%AC1%E9%A1%B5-1(1).PNG" alt="Buddha Machine" width="400"/>
 </p>
 What will the blessed virgin Mary be like if she lives in this post-modern world? Will she be decorated exactly a cyber celebrity，just as Kim Kardashia or other social media influencers?With all those luxury,flat money and digital currency,this is the new totemism of the bizarre and motley world we r living in,which is fable,ironic and dadais.
 
